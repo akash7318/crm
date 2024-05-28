@@ -1,0 +1,41 @@
+.login_form {
+    background-image: url(../../../public/images/login_bg.jpg);
+}
+
+.form_log {
+    /* background: linear-gradient(3deg, #5d5e6f 19%, #363865 100%); */
+    background: linear-gradient(40deg, #2F2694 30%, #0360f7 100%);
+    /* background-image: linear-gradient(to right top, #051937, #004a6f, #007e7d, #1eae59, #cdcf22); */
+    /* background-color: #0360f7; */
+}
+
+.text-white,
+.text-white input,
+.text-white label {
+    color: #fff !important;
+}
+
+.border-white fieldset,
+.border-white span {
+    border-color: #fff !important;
+}
+
+.form_log label {
+    color: #fff;
+}
+
+.form_logo img {
+    margin: auto;
+    width: 200px;
+}
+
+.form_text {
+    color: #fff;
+}
+
+.login_form button {
+    background-color: #fff;
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+}
